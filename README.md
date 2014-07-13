@@ -1,1 +1,1 @@
-![turtle-rob](https://github.com/raimohanska/TurtleRob/blob/master/roybot.jpg)
+![turtle-rob](https://raw.githubusercontent.com/raimohanska/TurtleRob/master/roybot.jpg)
